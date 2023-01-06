@@ -47,6 +47,6 @@ app.get("/about", function(req,res){
 
 
 
-app.listen(200 , function(){
+app.listen(3000 , function(){
   console.log("server running on 3000")
 });
